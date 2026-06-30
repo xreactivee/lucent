@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <a href="https://lucent-fawn.vercel.app"><strong>Live Demo »</strong></a>
+  <a href="https://xrs-lucent.vercel.app"><strong>Live Demo »</strong></a>
 </p>
 
 ---
